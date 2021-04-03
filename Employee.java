@@ -22,6 +22,7 @@ int id=s.nextInt();
 	d.empId(id);
 long phno=s.nextLong();
 	d.empId(phno);
+	d.empId(id);
 
 	
 }
