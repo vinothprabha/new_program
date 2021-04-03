@@ -24,6 +24,11 @@ public static void main(String[] args) {
 					System.out.println(i);
 					System.out.println(i);
 					
+					System.out.println(enter user name a:);
+					System.out.println(enter user name b:);
+					System.out.println(enter user name c:);
+					
+					
 		}
 	}
 	
