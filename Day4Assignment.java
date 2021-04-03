@@ -18,6 +18,9 @@ public static void main(String[] args) {
 		
 				if(num==j) {
 			System.out.println(j);
+			System.out.println(j);
+			System.out.println(j);
+					
 		}
 	}
 	
